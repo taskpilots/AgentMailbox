@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgentMailbox.Core/AgentMailbox.Core.csproj" />
+  <Project Path="AgentMailbox.Repositories/AgentMailbox.Repositories.csproj" />
+  <Project Path="AgentMailbox.WebApis.Tests/AgentMailbox.WebApis.Tests.csproj" />
+  <Project Path="AgentMailbox.WebApis/AgentMailbox.WebApis.csproj" />
+</Solution>
